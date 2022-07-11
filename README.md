@@ -1,4 +1,4 @@
-### JuJang 👋
+### Hello, I'm beginner developer JuJang 👨‍💻
 ---
 
 <!--
