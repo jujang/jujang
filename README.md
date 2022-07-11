@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujang&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/>
   <div>
-    <h2> My tech skack 📚 </h2>
+    <h2> My tech stack 📚 </h2>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>  
       <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black"/>
