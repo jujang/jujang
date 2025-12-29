@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 ### 📌 Current Project
 
-🌳 [**글나무**](https://github.com/jujang/geulnamu) - 독서 토론 커뮤니티 관리 플랫폼
+🌳 [**글나무**](https://github.com/jujang/geulnamu) - 독서모임 글나무 운영 관리 서비스
