@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
+---
+
 ### 📌 Current Project
 
 🌳 [**글나무**](https://github.com/jujang/geulnamu) - 독서 토론 커뮤니티 관리 플랫폼
